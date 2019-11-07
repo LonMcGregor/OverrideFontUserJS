@@ -1,0 +1,6 @@
+/* @import("./teststyleimport.css") disable for now */
+
+h2 {font-family: 'Franklin Gothic Medium', 'Arial Narrow',saNs-sErif, Arial;}
+
+/* move to import when ready */
+h3 {font-family: 'Courier New', Courier, monospace !important;}
